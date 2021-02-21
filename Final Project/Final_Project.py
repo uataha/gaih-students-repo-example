@@ -1,3 +1,1 @@
-import pandas as pd
-
-data = pd.read_csv("project.csv")
+print("yapamadım hocam kusura bakmayın :/")
